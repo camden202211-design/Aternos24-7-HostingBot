@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK Bot2",
   "bot-account": {
     "username": "hadafkrelrel",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "gammasmp123.aternos.me",
-    "port": 41948,
-    "version": "1.21.11",
+    "ip": "GlowcraftMC.aternos.me",
+    "port": 15291,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
